@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Pop</h1>
+<h1 align="center">👋 Hey, I'm CHITHRA</h1>
 
 <p align="center">
   🌱 SDE Aspirant | 💻 Java + Spring Boot | ⚡ Problem Solver <br/>
