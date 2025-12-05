@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hey, I'm CHITHRA</h1>
 
+
+  
 <p align="center">
   🌱 SDE Aspirant | 💻 Java + Spring Boot | ⚡ Problem Solver <br/>
   🚀 Building full-stack projects & improving daily with DSA
@@ -20,6 +22,8 @@
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" />
+
 </p>
 
 **Backend**
