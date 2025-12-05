@@ -3,11 +3,11 @@
 
   
 <p align="center">
-  🎓 SDE Aspirant | 👨‍💻 Problem Solver | 💻 Full-Stack Developer <br><br>
+  🎓 SDE Aspirant | 👨‍💻 Problem Solver | 💻 Full-Stack Developer <br>
 
-  👉 Deep-diving into Advanced DSA <br>
-  👉 Building real projects & leveling up daily <br>
-  👉 Obsessed with creating clean, scalable tech
+          👉 Deep-diving into Advanced DSA <br>
+          👉 Building real projects & leveling up daily <br>
+          👉 Obsessed with creating clean, scalable tech
 </p>
 
 
@@ -70,7 +70,8 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chithra-19&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chithra-19&theme=radical" />
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chithra-19&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=chithra-19&theme=radical" />
+</div>
+
