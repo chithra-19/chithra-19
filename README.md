@@ -3,7 +3,7 @@
 
   
 <p align="center">
-  🎓 SDE Aspirant | 👨‍💻 Problem Solver | 💻 Full-Stack Developer 
+  🎓 SDE Aspirant | 👨‍💻 Problem Solver | 💻 Full-Stack Developer <br>
           👉 Deep-diving into Advanced DSA <br>
           👉 Building real projects & leveling up daily <br>
           👉 Obsessed with creating clean, scalable tech
