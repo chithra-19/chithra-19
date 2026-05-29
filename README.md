@@ -64,7 +64,7 @@
 
 ### 🚀 Current Focus
 - 🔥 Preparing for SDE roles  
-- 💡 Building **ClimbUP** & **Habit Tracker**  
+- 💡 Built **ClimbUP** & **Expense Tracker API** 
 - 🎯 Grinding DSA + System Design  
 
 ---
